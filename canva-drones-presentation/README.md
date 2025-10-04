@@ -11,6 +11,4 @@ The goal was to combine **academic structure** with **aesthetically balanced pag
 ---
 
 ## 📄 Preview
-You can view or download the full PDF here:
-
-👉 [Download Drone Surveillance Seminar (PDF)](./drones-presentation.pdf)
+[View on Canva](https://www.canva.com/design/DAGZBReXeO0/reHuYsxIBOPFNza8V4spBw/view?utm_content=DAGZBReXeO0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a7308f098)
