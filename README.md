@@ -1,2 +1,7 @@
 # design-portfolio
-Collection of my design projects created during university
+# 🎨 Design Portfolio
+
+A collection of my UI/UX design and creative projects.
+
+## Projects
+- [Social Network App for Students (Figma)](./figma-fonline)
