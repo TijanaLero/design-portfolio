@@ -47,4 +47,10 @@ The goal of the app is to **connect students, simplify information sharing**, an
 ## 🔗 Figma Prototype
 [View the project on Figma](https://www.figma.com/proto/THD5doOTEJraLTVJ4NamBz/Fonline?node-id=0-1&t=0PGzT9u1Zaigxcnf-1) 
 
+---
+
+## 📸 Preview
+
+![Home Feed](./feed.png)
+![Profile Screen](./profile.png)
 
