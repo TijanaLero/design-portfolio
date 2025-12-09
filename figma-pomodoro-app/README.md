@@ -32,3 +32,11 @@ This prototype focuses solely on the **setup experience** for creating a recurri
 
 ## 🔗 Figma Prototype
 [View the project on Figma](https://www.figma.com/proto/NDgTzHFTcyeB0kl9weoeDU/Pomodoro-Setup-Flow---Tijana-Lero--?node-id=0-1&t=zZ8mbqmOGGBIQFhs-1) 
+
+---
+
+## 📸 Preview
+
+![Entry Point](./entrypoint.png)
+![Setup Screen](./setup.png)
+![Summary Screen](./summary.png)
